@@ -28,6 +28,7 @@ body{
   margin-top:80px;
 }
 .ele{
+  font-weight:bold;
   padding:10px;
   font-size:22px;
   text-decoration:underline;
